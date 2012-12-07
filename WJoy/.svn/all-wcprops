@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/147/trunk/WJoy
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/42/trunk/WJoy/main.m
+END
+WiimoteLEDsController.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/42/trunk/WJoy/WiimoteLEDsController.h
+END
+StatusBarItemController.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/147/trunk/WJoy/StatusBarItemController.h
+END
+NotificationCenter.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/147/trunk/WJoy/NotificationCenter.m
+END
+MainController.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/147/trunk/WJoy/MainController.m
+END
+WiimoteLEDsController.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/118/trunk/WJoy/WiimoteLEDsController.m
+END
+StatusBarItemController.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/147/trunk/WJoy/StatusBarItemController.m
+END
+MainMenu.xib
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/42/trunk/WJoy/MainMenu.xib
+END
+LoginItemsList.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/42/trunk/WJoy/LoginItemsList.h
+END
+WiimoteAutoWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/118/trunk/WJoy/WiimoteAutoWrapper.h
+END
+warning.icns
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/42/trunk/WJoy/warning.icns
+END
+wiimote.png
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/42/trunk/WJoy/wiimote.png
+END
+LoginItemsList.m
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/142/trunk/WJoy/LoginItemsList.m
+END
+WiimoteAutoWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/78/trunk/WJoy/WiimoteAutoWrapper.m
+END
+WJoyLatestVersion.plist
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/144/trunk/WJoy/WJoyLatestVersion.plist
+END
+WJoy-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/147/trunk/WJoy/WJoy-Info.plist
+END
+app.icns
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/42/trunk/WJoy/app.icns
+END
+NotificationCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/147/trunk/WJoy/NotificationCenter.h
+END
+MainController.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/42/trunk/WJoy/MainController.h
+END

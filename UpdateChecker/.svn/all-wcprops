@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/147/trunk/UpdateChecker
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/146/trunk/UpdateChecker/main.m
+END
+UAppVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/146/trunk/UpdateChecker/UAppVersion.h
+END
+UAppUpdateChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/146/trunk/UpdateChecker/UAppUpdateChecker.h
+END
+MainController.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/146/trunk/UpdateChecker/MainController.m
+END
+NSString+UAppVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/146/trunk/UpdateChecker/NSString+UAppVersion.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/146/trunk/UpdateChecker/Info.plist
+END
+UpdateTest-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/146/trunk/UpdateChecker/UpdateTest-Info.plist
+END
+UAppUpdateChecker.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/146/trunk/UpdateChecker/UAppUpdateChecker.m
+END
+NSString+UAppVersion.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/146/trunk/UpdateChecker/NSString+UAppVersion.m
+END
+MainMenu.xib
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/146/trunk/UpdateChecker/MainMenu.xib
+END
+MainController.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/146/trunk/UpdateChecker/MainController.h
+END

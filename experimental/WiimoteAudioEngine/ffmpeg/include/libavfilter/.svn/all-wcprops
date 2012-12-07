@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/include/libavfilter
+END
+avfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/include/libavfilter/avfilter.h
+END
+avfiltergraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/include/libavfilter/avfiltergraph.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/lib
+END
+libavdevice.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/lib/libavdevice.dylib
+END
+libavfilter.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/lib/libavfilter.dylib
+END
+libavformat.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/lib/libavformat.dylib
+END
+libavcore.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/lib/libavcore.dylib
+END
+libswscale.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/lib/libswscale.dylib
+END
+libavcodec.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/lib/libavcodec.dylib
+END
+libavutil.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/lib/libavutil.dylib
+END

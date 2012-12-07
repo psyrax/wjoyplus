@@ -1,0 +1,743 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/143/trunk/Wiimote
+END
+WiimoteLEDPart.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/77/trunk/Wiimote/WiimoteLEDPart.h
+END
+WiimoteEventDispatcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/60/trunk/Wiimote/WiimoteEventDispatcher.m
+END
+WiimoteProtocolExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/92/trunk/Wiimote/WiimoteProtocolExtension.h
+END
+WiimoteLEDPart.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/79/trunk/Wiimote/WiimoteLEDPart.m
+END
+WiimoteInquiry.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/67/trunk/Wiimote/WiimoteInquiry.h
+END
+WiimoteProtocolNunchuck.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/92/trunk/Wiimote/WiimoteProtocolNunchuck.h
+END
+WiimoteIRPart.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/95/trunk/Wiimote/WiimoteIRPart.h
+END
+WiimoteDeviceReport+Private.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/Wiimote/WiimoteDeviceReport+Private.h
+END
+WiimoteBatteryPart.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/55/trunk/Wiimote/WiimoteBatteryPart.h
+END
+WiimoteAccelerometerPart.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/87/trunk/Wiimote/WiimoteAccelerometerPart.h
+END
+WiimoteExtensionProbeHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/134/trunk/Wiimote/WiimoteExtensionProbeHandler.h
+END
+WiimoteAccelerometer+PlugIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/118/trunk/Wiimote/WiimoteAccelerometer+PlugIn.h
+END
+WiimoteInquiry.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/130/trunk/Wiimote/WiimoteInquiry.m
+END
+WiimotePart.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/118/trunk/Wiimote/WiimotePart.h
+END
+WiimoteDeviceReport+Private.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/Wiimote/WiimoteDeviceReport+Private.m
+END
+WiimoteIRPart.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/104/trunk/Wiimote/WiimoteIRPart.m
+END
+WiimoteBatteryPart.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/88/trunk/Wiimote/WiimoteBatteryPart.m
+END
+WiimoteAccelerometerPart.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/104/trunk/Wiimote/WiimoteAccelerometerPart.m
+END
+WiimoteExtensionProbeHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/141/trunk/Wiimote/WiimoteExtensionProbeHandler.m
+END
+WiimoteAccelerometer+PlugIn.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/95/trunk/Wiimote/WiimoteAccelerometer+PlugIn.m
+END
+WiimoteNunchuckDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/137/trunk/Wiimote/WiimoteNunchuckDelegate.h
+END
+WiimoteGenericExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/141/trunk/Wiimote/WiimoteGenericExtension.h
+END
+WiimotePart.m
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/80/trunk/Wiimote/WiimotePart.m
+END
+WiimoteExtensionHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/136/trunk/Wiimote/WiimoteExtensionHelper.h
+END
+Wiimote+Tracking.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/55/trunk/Wiimote/Wiimote+Tracking.h
+END
+WiimoteNunchuckDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/87/trunk/Wiimote/WiimoteNunchuckDelegate.m
+END
+WiimoteNunchuck.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/87/trunk/Wiimote/WiimoteNunchuck.h
+END
+WiimoteGenericExtension.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/141/trunk/Wiimote/WiimoteGenericExtension.m
+END
+WiimoteClassicControllerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/Wiimote/WiimoteClassicControllerDelegate.h
+END
+WiimoteExtensionHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/136/trunk/Wiimote/WiimoteExtensionHelper.m
+END
+Wiimote+Tracking.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/55/trunk/Wiimote/Wiimote+Tracking.m
+END
+WiimoteNunchuck.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/132/trunk/Wiimote/WiimoteNunchuck.m
+END
+WiimoteClassicControllerDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/64/trunk/Wiimote/WiimoteClassicControllerDelegate.m
+END
+WiimoteClassicController.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/87/trunk/Wiimote/WiimoteClassicController.h
+END
+WiimoteClassicController.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/141/trunk/Wiimote/WiimoteClassicController.m
+END
+WiimoteDeviceReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/92/trunk/Wiimote/WiimoteDeviceReport.h
+END
+WiimoteProtocolMotionPlus.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/143/trunk/Wiimote/WiimoteProtocolMotionPlus.h
+END
+WiimoteProtocolIR.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/95/trunk/Wiimote/WiimoteProtocolIR.h
+END
+WiimoteDeviceReadMemQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/75/trunk/Wiimote/WiimoteDeviceReadMemQueue.h
+END
+WiimoteDeviceReport.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/88/trunk/Wiimote/WiimoteDeviceReport.m
+END
+WiimoteProtocolCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/137/trunk/Wiimote/WiimoteProtocolCommand.h
+END
+WiimoteProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/141/trunk/Wiimote/WiimoteProtocol.h
+END
+WiimoteButtonPart.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/79/trunk/Wiimote/WiimoteButtonPart.h
+END
+WiimoteEventDispatcher+Nunchuck.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/87/trunk/Wiimote/WiimoteEventDispatcher+Nunchuck.h
+END
+WiimoteExtensionPart.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/136/trunk/Wiimote/WiimoteExtensionPart.h
+END
+WiimoteMotionPlusDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/132/trunk/Wiimote/WiimoteMotionPlusDetector.h
+END
+WiimoteMotionPlusDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/143/trunk/Wiimote/WiimoteMotionPlusDelegate.h
+END
+WiimoteDeviceReadMemQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/95/trunk/Wiimote/WiimoteDeviceReadMemQueue.m
+END
+WiimoteButtonPart.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/88/trunk/Wiimote/WiimoteButtonPart.m
+END
+WiimoteEventDispatcher+Nunchuck.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/87/trunk/Wiimote/WiimoteEventDispatcher+Nunchuck.m
+END
+WiimoteExtensionPart.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/136/trunk/Wiimote/WiimoteExtensionPart.m
+END
+WiimoteIOManager+Private.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/55/trunk/Wiimote/WiimoteIOManager+Private.h
+END
+WiimoteMotionPlusDetector.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/134/trunk/Wiimote/WiimoteMotionPlusDetector.m
+END
+WiimoteMotionPlusDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/143/trunk/Wiimote/WiimoteMotionPlusDelegate.m
+END
+WiimoteProtocolCalibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/92/trunk/Wiimote/WiimoteProtocolCalibration.h
+END
+WiimoteMotionPlus.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/143/trunk/Wiimote/WiimoteMotionPlus.h
+END
+WiimoteEventDispatcher+ClassicController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/64/trunk/Wiimote/WiimoteEventDispatcher+ClassicController.h
+END
+WiimoteDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/137/trunk/Wiimote/WiimoteDelegate.h
+END
+WiimoteAccelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/87/trunk/Wiimote/WiimoteAccelerometer.h
+END
+test.xib
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/139/trunk/Wiimote/test.xib
+END
+WiimoteIOManager+Private.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/55/trunk/Wiimote/WiimoteIOManager+Private.m
+END
+WiimoteMotionPlus.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/143/trunk/Wiimote/WiimoteMotionPlus.m
+END
+WiimoteEventDispatcher+ClassicController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/68/trunk/Wiimote/WiimoteEventDispatcher+ClassicController.m
+END
+test-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/139/trunk/Wiimote/test-Info.plist
+END
+WiimoteAccelerometer.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/100/trunk/Wiimote/WiimoteAccelerometer.m
+END
+Wiimote.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/136/trunk/Wiimote/Wiimote.h
+END
+WiimoteDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/95/trunk/Wiimote/WiimoteDelegate.m
+END
+WiimoteWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/143/trunk/Wiimote/WiimoteWrapper.h
+END
+WiimoteProtocolUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/95/trunk/Wiimote/WiimoteProtocolUtils.h
+END
+Wiimote.m
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/136/trunk/Wiimote/Wiimote.m
+END
+WiimoteVibrationPart.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/77/trunk/Wiimote/WiimoteVibrationPart.h
+END
+TestController.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/143/trunk/Wiimote/TestController.h
+END
+WiimoteWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/143/trunk/Wiimote/WiimoteWrapper.m
+END
+test.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/139/trunk/Wiimote/test.m
+END
+WiimoteEventDispatcher+LED.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/55/trunk/Wiimote/WiimoteEventDispatcher+LED.h
+END
+WiimoteVibrationPart.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/77/trunk/Wiimote/WiimoteVibrationPart.m
+END
+TestController.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/143/trunk/Wiimote/TestController.m
+END
+WiimoteProtocolBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/92/trunk/Wiimote/WiimoteProtocolBase.h
+END
+WiimoteEventDispatcher+MotionPlus.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/136/trunk/Wiimote/WiimoteEventDispatcher+MotionPlus.h
+END
+WiimoteEventDispatcher+LED.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/79/trunk/Wiimote/WiimoteEventDispatcher+LED.m
+END
+WiimoteEventDispatcher+Battery.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/55/trunk/Wiimote/WiimoteEventDispatcher+Battery.h
+END
+WiimoteEventDispatcher+IR.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/95/trunk/Wiimote/WiimoteEventDispatcher+IR.h
+END
+WiimoteEventDispatcher+Accelerometer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/87/trunk/Wiimote/WiimoteEventDispatcher+Accelerometer.h
+END
+WiimoteEventDispatcher+MotionPlus.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/136/trunk/Wiimote/WiimoteEventDispatcher+MotionPlus.m
+END
+WiimoteIOManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/Wiimote/WiimoteIOManager.h
+END
+WiimoteEventDispatcher+Battery.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/79/trunk/Wiimote/WiimoteEventDispatcher+Battery.m
+END
+WiimoteEventDispatcher+IR.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/100/trunk/Wiimote/WiimoteEventDispatcher+IR.m
+END
+WiimoteEventDispatcher+Accelerometer.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/87/trunk/Wiimote/WiimoteEventDispatcher+Accelerometer.m
+END
+WiimoteProtocolClassicController.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/137/trunk/Wiimote/WiimoteProtocolClassicController.h
+END
+WiimoteIOManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130/trunk/Wiimote/WiimoteIOManager.m
+END
+WiimoteExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/55/trunk/Wiimote/WiimoteExtension.h
+END
+WiimoteExtension.m
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/55/trunk/Wiimote/WiimoteExtension.m
+END
+WiimoteDeviceReadMemHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/Wiimote/WiimoteDeviceReadMemHandler.h
+END
+WiimoteIRPoint+Private.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/95/trunk/Wiimote/WiimoteIRPoint+Private.h
+END
+WiimoteUnknownExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/63/trunk/Wiimote/WiimoteUnknownExtension.h
+END
+WiimoteProtocolReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/95/trunk/Wiimote/WiimoteProtocolReport.h
+END
+WiimoteDeviceReadMemHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/88/trunk/Wiimote/WiimoteDeviceReadMemHandler.m
+END
+WiimoteEventDispatcher+Private.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/60/trunk/Wiimote/WiimoteEventDispatcher+Private.h
+END
+WiimoteIRPoint+Private.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/95/trunk/Wiimote/WiimoteIRPoint+Private.m
+END
+WiimoteDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/Wiimote/WiimoteDevice.h
+END
+WiimoteEventDispatcher+Button.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/79/trunk/Wiimote/WiimoteEventDispatcher+Button.h
+END
+WiimoteEventDispatcher+Extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/79/trunk/Wiimote/WiimoteEventDispatcher+Extension.h
+END
+WiimoteWatchdog.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/55/trunk/Wiimote/WiimoteWatchdog.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/139/trunk/Wiimote/Info.plist
+END
+WiimoteUnknownExtension.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/63/trunk/Wiimote/WiimoteUnknownExtension.m
+END
+WiimoteEventDispatcher+Private.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/79/trunk/Wiimote/WiimoteEventDispatcher+Private.m
+END
+WiimoteDevice.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/Wiimote/WiimoteDevice.m
+END
+WiimoteEventDispatcher+Button.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/60/trunk/Wiimote/WiimoteEventDispatcher+Button.m
+END
+WiimoteWatchdog.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/60/trunk/Wiimote/WiimoteWatchdog.m
+END
+WiimoteEventDispatcher+Extension.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/trunk/Wiimote/WiimoteEventDispatcher+Extension.m
+END
+WiimoteExtension+PlugIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/136/trunk/Wiimote/WiimoteExtension+PlugIn.h
+END
+Wiimote+PlugIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/118/trunk/Wiimote/Wiimote+PlugIn.h
+END
+WiimoteExtension+PlugIn.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/136/trunk/Wiimote/WiimoteExtension+PlugIn.m
+END
+Wiimote+Create.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/55/trunk/Wiimote/Wiimote+Create.h
+END
+Wiimote+PlugIn.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/79/trunk/Wiimote/Wiimote+PlugIn.m
+END
+WiimoteEventDispatcher+Vibration.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/55/trunk/Wiimote/WiimoteEventDispatcher+Vibration.h
+END
+WiimotePartSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/80/trunk/Wiimote/WiimotePartSet.h
+END
+Wiimote+Create.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/95/trunk/Wiimote/Wiimote+Create.m
+END
+WiimoteIRPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/95/trunk/Wiimote/WiimoteIRPoint.h
+END
+WiimoteEventDispatcher+Vibration.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/79/trunk/Wiimote/WiimoteEventDispatcher+Vibration.m
+END
+WiimotePartSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/80/trunk/Wiimote/WiimotePartSet.m
+END
+WiimoteEventDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/92/trunk/Wiimote/WiimoteEventDispatcher.h
+END
+WiimoteIRPoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/95/trunk/Wiimote/WiimoteIRPoint.m
+END

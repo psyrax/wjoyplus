@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/include/libavformat
+END
+avio.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/include/libavformat/avio.h
+END
+avformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg/include/libavformat/avformat.h
+END

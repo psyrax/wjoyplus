@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/118/trunk/experimental/WiimoteAudioEngine
+END
+AVMutableAudioPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/118/trunk/experimental/WiimoteAudioEngine/AVMutableAudioPacket.h
+END
+WiimoteAudioPart.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/WiimoteAudioPart.m
+END
+AVYamahaADPCMEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVYamahaADPCMEncoder.h
+END
+ffmpeg_builder.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/ffmpeg_builder.sh
+END
+AVAudioEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVAudioEncoder.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/Info.plist
+END
+AVMutableAudioPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVMutableAudioPacket.m
+END
+AVAudioSourceConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVAudioSourceConverter.h
+END
+AVAudioFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVAudioFormat.h
+END
+AVYamahaADPCMEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVYamahaADPCMEncoder.m
+END
+AVAudioSourceConverter.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVAudioSourceConverter.m
+END
+AVAudioFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVAudioFormat.m
+END
+AVAudioPacketConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVAudioPacketConverter.h
+END
+AVAudioSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/118/trunk/experimental/WiimoteAudioEngine/AVAudioSource.h
+END
+AVFileAudioSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVFileAudioSource.h
+END
+Wiimote+Audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/118/trunk/experimental/WiimoteAudioEngine/Wiimote+Audio.h
+END
+test-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/test-Info.plist
+END
+AVAudioPacketConverter.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVAudioPacketConverter.m
+END
+AVAudioSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVAudioSource.m
+END
+AVFileAudioSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVFileAudioSource.m
+END
+Wiimote+Audio.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/Wiimote+Audio.m
+END
+WiimoteAudioSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/118/trunk/experimental/WiimoteAudioEngine/WiimoteAudioSource.h
+END
+AVAudioPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/118/trunk/experimental/WiimoteAudioEngine/AVAudioPacket.h
+END
+WiimoteAudioSourceWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/WiimoteAudioSourceWrapper.h
+END
+test.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/118/trunk/experimental/WiimoteAudioEngine/test.m
+END
+AVAudioPacket.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/AVAudioPacket.m
+END
+WiimoteAudioSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/WiimoteAudioSource.m
+END
+WiimoteAudioSourceWrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/113/trunk/experimental/WiimoteAudioEngine/WiimoteAudioSourceWrapper.m
+END
+WiimoteAudioPart.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/118/trunk/experimental/WiimoteAudioEngine/WiimoteAudioPart.h
+END
+AVAudioEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/118/trunk/experimental/WiimoteAudioEngine/AVAudioEncoder.h
+END
