@@ -210,27 +210,27 @@ static NSUInteger maxConnectedDevices = 0;
         case 1:{
             switch ([[inputArray objectAtIndex:0]integerValue]) {
                 case 0:{
-                    puntero = CGPointMake(0.0625, -0.77419352531433105);
+                    puntero = NSPointFromCGPoint(CGPointMake(0.0625, -0.77419352531433105));
                 }
                 break;
                 case 1:
                 {
-                    puntero = CGPointMake(0.09375, 0.875);
+                    puntero = NSPointFromCGPoint(CGPointMake(0.09375, 0.875));
                 }
                 break;
                 case 2:
                 {
-                    puntero = CGPointMake(-0.70967745780944824, 0.03125);
+                    puntero = NSPointFromCGPoint(CGPointMake(-0.70967745780944824, 0.03125));
                 }
                 break;
                 case 3:
                 {
-                    puntero = CGPointMake(0.84375, 0.125);
+                    puntero = NSPointFromCGPoint(CGPointMake(0.84375, 0.125));
                 }
                 break;
                 default:
                 {
-                    puntero = CGPointMake(0.0, 0.0);
+                    puntero = NSPointFromCGPoint(CGPointMake(0.0, 0.0));
                 }
                     break;
             }
@@ -242,30 +242,30 @@ static NSUInteger maxConnectedDevices = 0;
                 case 12:
                 case 21:
                 {
-                    puntero = CGPointMake(-0.54838711023330688, 0.65625);
+                    puntero = NSPointFromCGPoint(CGPointMake (-0.54838711023330688, 0.65625));
                 }
                     break;
                 case 13:
                 case 31:
                 {
-                    puntero = CGPointMake(0.71875, 0.625);
+                    puntero = NSPointFromCGPoint(CGPointMake(0.71875, 0.625));
                 }
                     break;
                 case 02:
                 case 20:
                 {
-                    puntero = CGPointMake(-0.61290323734283447, -0.54838711023330688);
+                    puntero = NSPointFromCGPoint(CGPointMake(-0.61290323734283447, -0.54838711023330688));
                 }
                     break;
                 case 03:
                 case 30:
                 {
-                    puntero = CGPointMake(0.71875, -0.5161290168762207);
+                    puntero = NSPointFromCGPoint(CGPointMake(0.71875, -0.5161290168762207));
                 }
                     break;
                 default:
                 {
-                    puntero = CGPointMake(0.0, 0.0);
+                    puntero = NSPointFromCGPoint(CGPointMake(0.0, 0.0));
                 }
                     break;
             }
@@ -273,7 +273,7 @@ static NSUInteger maxConnectedDevices = 0;
             break;
         default:
         {
-            puntero = CGPointMake(0.0, 0.0);
+            puntero = NSPointFromCGPoint(CGPointMake(0.0, 0.0));
         }break;
         
     }
