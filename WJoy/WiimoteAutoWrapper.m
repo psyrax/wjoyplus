@@ -62,8 +62,9 @@ static NSUInteger maxConnectedDevices = 0;
 
 - (void)wiimote:(Wiimote*)wiimote buttonPressed:(WiimoteButtonType)button
 {
-    if(button<4){
+    if(button>9){
         [self makePointer:button pressing:YES];
+        NSLog(@"%u", button);
     }else{
     [m_HIDState setButton:button pressed:YES];
     };
@@ -71,7 +72,7 @@ static NSUInteger maxConnectedDevices = 0;
 
 - (void)wiimote:(Wiimote*)wiimote buttonReleased:(WiimoteButtonType)button
 {
-    if(button<4){
+    if(button>9){
        [self makePointer:button pressing:NO];
     }
     [m_HIDState setButton:button pressed:NO];
@@ -209,28 +210,32 @@ static NSUInteger maxConnectedDevices = 0;
     switch ([inputArray count]) {
         case 1:{
             switch ([[inputArray objectAtIndex:0]integerValue]) {
-                case 0:{
-                    puntero = NSPointFromCGPoint(CGPointMake(0.0625, -0.77419352531433105));
+                    //right
+                case 13:{
+                    puntero = NSMakePoint(1.0, 0.0);
                 }
                 break;
-                case 1:
+                    //left
+                case 12:
                 {
-                    puntero = NSPointFromCGPoint(CGPointMake(0.09375, 0.875));
+                    puntero = NSMakePoint(-1.0, 0.0);
                 }
                 break;
-                case 2:
+                    //down
+                case 10:
                 {
-                    puntero = NSPointFromCGPoint(CGPointMake(-0.70967745780944824, 0.03125));
+                    puntero = NSMakePoint(0.0, -1.0);
                 }
                 break;
-                case 3:
+                    //up
+                case 11:
                 {
-                    puntero = NSPointFromCGPoint(CGPointMake(0.84375, 0.125));
+                    puntero = NSMakePoint(0.0, 1.0);
                 }
                 break;
                 default:
                 {
-                    puntero = NSPointFromCGPoint(CGPointMake(0.0, 0.0));
+                    puntero = NSMakePoint(0.0, 0.0);
                 }
                     break;
             }
@@ -239,33 +244,36 @@ static NSUInteger maxConnectedDevices = 0;
         case 2:{
             NSString *diagonalRef = [NSString stringWithFormat:@"%@%@",[inputArray objectAtIndex:0],[inputArray objectAtIndex:1]];
             switch ([diagonalRef integerValue]) {
-                case 12:
-                case 21:
+                    //down+left
+                case 1210:
+                case 1012:
                 {
-                    puntero = NSPointFromCGPoint(CGPointMake (-0.54838711023330688, 0.65625));
+                    puntero = NSMakePoint(-0.71, -0.71);
                 }
                     break;
-                case 13:
-                case 31:
+                    //up+left
+                case 1211:
+                case 1112:
                 {
-                    puntero = NSPointFromCGPoint(CGPointMake(0.71875, 0.625));
+                    puntero = NSMakePoint(-0.71, 0.71);
                 }
                     break;
-                case 02:
-                case 20:
+                    //down+right
+                case 1310:
+                case 1013:
                 {
-                    puntero = NSPointFromCGPoint(CGPointMake(-0.61290323734283447, -0.54838711023330688));
+                    puntero = NSMakePoint(0.71, -0.71);
                 }
                     break;
-                case 03:
-                case 30:
+                case 1311:
+                case 1113:
                 {
-                    puntero = NSPointFromCGPoint(CGPointMake(0.71875, -0.5161290168762207));
+                    puntero = NSMakePoint(0.71, 0.71);
                 }
                     break;
                 default:
                 {
-                    puntero = NSPointFromCGPoint(CGPointMake(0.0, 0.0));
+                    puntero = NSMakePoint(0.71, 0.71);
                 }
                     break;
             }

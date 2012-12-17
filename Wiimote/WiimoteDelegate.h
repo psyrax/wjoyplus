@@ -30,17 +30,17 @@ typedef enum
 
 typedef enum
 {
-    WiimoteButtonTypeLeft       =  0,
-    WiimoteButtonTypeRight      =  1,
-    WiimoteButtonTypeUp         =  2,
-    WiimoteButtonTypeDown       =  3,
-    WiimoteButtonTypeA          =  4,
-    WiimoteButtonTypeB          =  5,
-    WiimoteButtonTypePlus       =  6,
-    WiimoteButtonTypeMinus      =  7,
+    WiimoteButtonTypeLeft       =  10,
+    WiimoteButtonTypeRight      =  11,
+    WiimoteButtonTypeUp         =  12,
+    WiimoteButtonTypeDown       =  13,
+    WiimoteButtonTypeA          =  2,
+    WiimoteButtonTypeB          =  3,
+    WiimoteButtonTypePlus       =  4,
+    WiimoteButtonTypeMinus      =  5,
     WiimoteButtonTypeHome       =  8,
-    WiimoteButtonTypeOne        =  9,
-    WiimoteButtonTypeTwo        = 10
+    WiimoteButtonTypeOne        =  0,
+    WiimoteButtonTypeTwo        = 1
 } WiimoteButtonType;
 
 FOUNDATION_EXPORT NSString *WiimoteConnectedNotification;
